@@ -1,0 +1,1 @@
+探索 vagrant，教學文章在此 [vagrant-教學-一鍵啟動配置開發環境](https://yuanchieh.page/posts/2020-04-12_vagrant-%E6%95%99%E5%AD%B8-%E4%B8%80%E9%8D%B5%E5%95%9F%E5%8B%95%E9%85%8D%E7%BD%AE%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/)
